@@ -1,3 +1,21 @@
+View Here:- https://facebook-clone-topaz.vercel.app/
+
+                                                                        Facebook Clone
+![image](https://user-images.githubusercontent.com/57978423/126529442-d41abae0-806b-45cd-a661-755e7f1c0ed6.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
