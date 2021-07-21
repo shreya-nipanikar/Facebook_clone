@@ -5,7 +5,7 @@ View Here:- https://facebook-clone-topaz.vercel.app/
 
 
 
-
+## Techologies Used
 1) Used Tailwind css for responsive.
 2) Used Firebase storage api tp store the images
 3) Used Firebase database to store the user information.
