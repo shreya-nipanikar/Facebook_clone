@@ -1,10 +1,15 @@
 View Here:- https://facebook-clone-topaz.vercel.app/
 
-                                                                        Facebook Clone
+                                                                      Facebook Clone
 ![image](https://user-images.githubusercontent.com/57978423/126529442-d41abae0-806b-45cd-a661-755e7f1c0ed6.png)
 
 
 
+
+1) Used Tailwind css for responsive.
+2) Used Firebase storage api tp store the images
+3) Used Firebase database to store the user information.
+4) Used next-auth to power up facebook login.
 
 
 
